@@ -1,101 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa91b433-dc8a-48bc-8919-d09316a7fc32" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LANGS.md" beforeDir="false" afterPath="$PROJECT_DIR$/LANGS.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_book/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/_book/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/en/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/en/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/en/search_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/_book/en/search_index.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/en/search_plus_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/_book/en/search_plus_index.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-anchor-navigation-ex/lib/config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-anchor-navigation-ex/lib/log.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-anchor-navigation-ex/lib/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-anchor-navigation-ex/lib/plugin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-anchor-navigation-ex/style/plugin.css" beforeDir="false" afterPath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-anchor-navigation-ex/style/plugin.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-github-buttons/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-github-buttons/plugin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-github-buttons/plugin.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-github-buttons/plugin.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-livereload/plugin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/search_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/_book/search_index.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/search_plus_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/_book/search_plus_index.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/zh/Booking/AirPricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/zh/Booking/AirPricing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/zh/Booking/AssignSeats.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/zh/Booking/AssignSeats.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/zh/Booking/GetAirlinesAndRoutings.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/zh/Booking/GetAirlinesAndRoutings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/zh/Booking/GetBalance.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/zh/Booking/GetBalance.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/zh/Booking/GetBookingPayments.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/zh/Booking/GetBookingPayments.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/zh/Booking/GetSSRAvailability.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/zh/Booking/GetSSRAvailability.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/zh/Booking/GetSeatAvailability.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/zh/Booking/GetSeatAvailability.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/zh/Booking/LowFareSearch.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/zh/Booking/LowFareSearch.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/zh/Booking/SellSSR.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/zh/Booking/SellSSR.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/zh/Booking/SetPassengers.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/zh/Booking/SetPassengers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/zh/Booking/SetPaymentToBooking.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/zh/Booking/SetPaymentToBooking.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/zh/Booking/commit.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/zh/Booking/commit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/zh/Order/GetOrderDetail.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/zh/Order/GetOrderDetail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/zh/Order/GetOrderList.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/zh/Order/GetOrderList.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/zh/Order/SyncOrderStatus.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/zh/Order/SyncOrderStatus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/zh/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/zh/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/zh/search_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/_book/zh/search_index.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/zh/search_plus_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/_book/zh/search_plus_index.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book.json" beforeDir="false" afterPath="$PROJECT_DIR$/book.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/en/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/examples/normal-usage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/examples/safe-string.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/colors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/custom/trap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/custom/zalgo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/extendStringPrototype.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/maps/america.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/maps/rainbow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/maps/random.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/maps/zebra.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/styles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/system/has-flag.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/system/supports-colors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/safe.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/safe.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colors/themes/generic-logging.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/.idea/markdown-navigator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/.idea/markdown-navigator/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/.idea/watcherTasks.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/assets/lib/config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/assets/lib/log.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/assets/lib/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/assets/lib/plugin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/assets/style/plugin.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/assets/style/plugin.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/doc/README_EN.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/doc/config-en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/doc/config.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/doc/effectScreenshot.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/doc/images/night默认参数效果.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/doc/images/pageTop展示.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/doc/images/printlog.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/doc/images/sepia默认参数效果.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/doc/images/toc标题icon展示.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/doc/images/toc标题icon展示2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/doc/images/white默认参数效果.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/doc/images/层级关联显示.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/doc/images/标题重新与默认主题层级相关联.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/doc/images/锚点效果和top展示.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/doc/updateRecord-en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/doc/updateRecord.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-github-buttons/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-github-buttons/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-github-buttons/lib/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-github-buttons/lib/plugin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-github-buttons/lib/plugin.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-github-buttons/lib/plugin.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-github-buttons/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-github-buttons/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-github-buttons/src/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-github-buttons/src/plugin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zh/Booking/SetPassengers.md" beforeDir="false" afterPath="$PROJECT_DIR$/zh/Booking/SetPassengers.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zh/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/zh/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zh/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/zh/SUMMARY.md" afterDir="false" />
-    </list>
+    <list default="true" id="aa91b433-dc8a-48bc-8919-d09316a7fc32" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -107,12 +13,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LANGS.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="15">
-                <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+              <first_editor relative-caret-position="30">
+                <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
               </first_editor>
               <second_editor />
             </state>
@@ -161,12 +67,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/zh/Booking/SetPassengers.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="220">
-                <caret line="105" column="1" selection-start-line="105" selection-start-column="1" selection-end-line="105" selection-end-column="1" />
+              <first_editor relative-caret-position="375">
+                <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
               </first_editor>
               <second_editor />
             </state>
@@ -294,17 +200,6 @@
               <item name="TechHouseApi" type="b2602c69:ProjectViewProjectNode" />
               <item name="TechHouseApi" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="TechHouseApi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TechHouseApi" type="462c0819:PsiDirectoryNode" />
-              <item name="zh" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TechHouseApi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TechHouseApi" type="462c0819:PsiDirectoryNode" />
-              <item name="zh" type="462c0819:PsiDirectoryNode" />
-              <item name="Booking" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -356,12 +251,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546910590201</updated>
-      <workItem from="1546910592527" duration="65171000" />
+      <workItem from="1546910592527" duration="66062000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65171000" />
+    <option name="totallyTimeSpent" value="66062000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1392" y="1021" width="1746" height="1138" extended-state="0" />
@@ -673,16 +568,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zh/Booking/SetPassengers.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="220">
-            <caret line="105" column="1" selection-start-line="105" selection-start-column="1" selection-end-line="105" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/book.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="389">
@@ -693,8 +578,18 @@
     <entry file="file://$PROJECT_DIR$/LANGS.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+          <first_editor relative-caret-position="30">
+            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zh/Booking/SetPassengers.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="375">
+            <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
           </first_editor>
           <second_editor />
         </state>
