@@ -129,4 +129,5 @@ currency	|String	|货币类型三字码
 ### 1.7 错误状态码
 ```json
 {"status": 1000, "msg": "ERROR MESSAGE" }
+```
 

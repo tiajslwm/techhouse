@@ -18,8 +18,8 @@
   "plugins": [
     "disqus",
     "expandable-chapters",
-    "-sharing",
     "splitter",
+    "search-plus",
     "expandable-chapters-small",
     "anchors",
     "github",
@@ -32,30 +32,20 @@
   ],
   "pluginsConfig": {
     "github": {
-      "url": "https://github.com/Blankj"
+      "url": "https://github.com/tiajslwm"
     },
     "github-buttons": {
       "buttons": [{
-        "user": "Blankj",
-        "repo": "glory",
+        "user": "tiajslwm",
+        "repo": "techhouse",
         "type": "star",
         "size": "small",
         "count": true
       }
       ]
     },
-
     "anchor-navigation-ex": {
       "showLevel": false
-    },
-    "favicon":{
-      "shortcut": "./source/images/favicon.jpg",
-      "bookmark": "./source/images/favicon.jpg",
-      "appleTouch": "./source/images/apple-touch-icon.jpg",
-      "appleTouchMore": {
-        "120x120": "./source/images/apple-touch-icon.jpg",
-        "180x180": "./source/images/apple-touch-icon.jpg"
-      }
     },
     "disqus": {
       "shortName": "techhouseapi"
@@ -65,16 +55,11 @@
         {
           "value": "http://gitbook.zhangjikai.com/v2/",
           "text": "v2.0.1"
-        },
-        {
-          "value": "http://gitbook.zhangjikai.com",
-          "text": "v1"
         }
-
       ]
     },
     "tbfed-pagefooter": {
-      "copyright":"Copyright &copy zhangjikai.com 2015",
+      "copyright":"Copyright 2018 TechHouse.com. All rights reserved",
       "modify_label": "该文件修订时间：",
       "modify_format": "YYYY-MM-DD HH:mm:ss"
     }
